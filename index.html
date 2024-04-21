@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Anas</title>
+</head>
+
+<body>
+  <script type="module">
+    // Importing WASM as a JS module requires us to call an init function provided by the default export.
+    // This is planned to be changed in the future.
+    import {default as wasm, run} from "./pkg/rclink.js";
+
+    wasm().then((module) => {
+      run();
+    });
+  </script>
+</body>
+
+</html>
