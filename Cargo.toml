@@ -8,7 +8,7 @@ edition = "2018"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-wasm-bindgen = "0.2.84"
+wasm-bindgen = "0.2.99"
 
 js-sys = "0.3.69"
 web-sys = { version = "0.3.69", features = ["Window", "Location"] }
