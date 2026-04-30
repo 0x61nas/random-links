@@ -141,3 +141,12 @@ https://youtu.be/7GtWMk4vIWk
 https://youtu.be/WKmhsHM_sY8
 https://youtu.be/qVtbUKuYcY8
 https://archive.org/details/09-sel-protocol/
+https://llvm.org/docs/CommandGuide/llvm-mca.html
+https://valgrind.org/
+https://github.com/0xAX/linux-insides
+https://github.com/wolfpld/tracy
+https://github.com/AdoptOpenJDK/jitwatch
+https://gifcities.org/
+https://ooo.eeeee.ooo/
+https://pote.to/
+https://thatsillyman.win/still-alive
